@@ -46,6 +46,8 @@ Antes de iniciar el proyecto, asegúrate de tener instalados los siguientes requ
         base de datos: (el definido en el .env)
      ```
 
+4. **Instalar dependencias con maven**
+   - Ejecutar ``` mvn install ```
 ---
 
 ## Ejecución de la API
